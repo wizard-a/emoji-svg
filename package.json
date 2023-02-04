@@ -1,0 +1,22 @@
+{
+  "name": "emoji-svg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "grab": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiechud/emoji-svg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiechud/emoji-svg/issues"
+  },
+  "homepage": "https://github.com/jiechud/emoji-svg#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
